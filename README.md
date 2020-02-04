@@ -1,7 +1,7 @@
 # test-spring-boot-starter
 自定义spring-boot-starter
 
-##使用方法
+## 使用方法
 1. 下载代码，在代码目录下，使用mvn clean install命令将jar包打包并放到本地mavan仓库
 2. 在spring-boot的项目中加入以下依赖：
 ``` xml
